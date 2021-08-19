@@ -1,10 +1,12 @@
 <script>
+	import Home from './lib/Home.svelte';
 </script>
 
 <main>
-	<p class="bg-green-300">Hello World</p>
+	<Home />
 </main>
 
+<!--  -->
 <style global>
 	@tailwind base;
 	@tailwind components;

@@ -1,3 +1,18 @@
-# Svelte app + Tailwind 2
+# Svelte + Tailwind
 
-a starter svelte + tailwind template I use in different projects.
+A quick Svelte App starter template using Tailwind (JIT)
+
+## Install
+```
+git clone https://github.com/issmeftah/svelte-app-tailwind
+
+cd svelte-app-tailwind/
+
+npm install
+```
+
+## Dev
+`npm run dev`
+
+## Build
+`npm run build`
