@@ -4,7 +4,7 @@ A quick Svelte App starter template using Tailwind (JIT)
 
 ## Install
 ```
-git clone https://github.com/issmeftah/svelte-app-tailwind
+git clone https://github.com/twiny/svelte-app-tailwind
 
 cd svelte-app-tailwind/
 
